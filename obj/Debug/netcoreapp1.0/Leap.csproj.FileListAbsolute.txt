@@ -1,0 +1,11 @@
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.deps.json
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.runtimeconfig.json
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.runtimeconfig.dev.json
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/bin/Debug/netcoreapp1.0/Leap.pdb
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/obj/Debug/netcoreapp1.0/Leap.AssemblyInfo.cs
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/obj/Debug/netcoreapp1.0/Leap.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/leap/obj/Debug/netcoreapp1.0/Leap.pdb
